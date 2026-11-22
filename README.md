@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.7.0-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.7.1-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,7 +22,11 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v1.7.0`
+## ✨ أبرز مميزات الإصدار `v1.7.1`
+
+- **🔍 بحث فوري بمجرد الكتابة + زر مسح سريع (`✕`):**
+  - فلترة فورية مع أول حرف بدون ضغط `Enter`، مع ترتيب النتائج التي **تبدأ بالحرف/الكلمة** أولاً وتوحيد الهمزات والأحرف العربية (`أ/إ/آ`، `ة/ه`) في تبويب **«مثبّت»** وبحث تلقائي في الخلفيات الأونلاين (`400ms` debounce).
+  - زر **`✕`** للمسح السريع داخل شريط البحث مع اختصار **`Esc`** لإعادة عرض كل الخلفيات فوراً.
 
 - **🖥️ ثبات تام لخلفيات الشاشات بعد إعادة التشغيل + تشغيل تلقائي مضمون لجميع المستخدمين:**
   - ربط خلفية وكتم صوت كل شاشة بمعرّف الهاردوير ومنفذ كرت الشاشة الدائم (`HW:DISPLAY#...` عبر `EnumDisplayDevices`) بدلاً من أرقام ويندوز المتغيرة (`DISPLAY1/2/3`)، مع ترتيب حتمي يبدأ بالشاشة الرئيسية وإظهار موديل كل شاشة داخل «اختيار شاشة».
