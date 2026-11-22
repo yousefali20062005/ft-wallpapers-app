@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.1-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.2-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,7 +22,11 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v1.6.1`
+## ✨ أبرز مميزات الإصدار `v1.6.2`
+
+- **⚡ استهلاك فائق الانخفاض للذاكرة (Ultra-Low RAM — ~10.6 MB في الخلفية / ~70.8 MB عند فتح الاستوديو):**
+  - محرك عرض هجين (**Native GDI+ Renderer** للصور الثابتة + تحميل وتفريغ تلقائي لـ `WebView2` عند التصغير في شريط المهام أو البدء المصغر) مما يخفض عمليات `WebView2` إلى **`0`** في الخلفية (`~10.56 MB` إجمالي).
+  - توحيد بيئة `CoreWebView2Environment` مع حدود ذاكرة لعمليات Chromium وتنظيف دوري ذكي لـ Working Set و .NET LOH (`~70.83 MB` مع الاستوديو مفتوحاً بدل ~191 MB).
 
 - **🎨 تصميم استوديو فاملي تيم النظيف والعملي (بأسلوب FT Movies و FT Music):**
   - واجهة `#0B0D13` / `#11141D` هادئة ومرتبة بدون أي شرائط زائدة أو تكدس بالخيارات، مع بطاقات عرضية واسعة (`16:10`)، وشريط علوي موحد، وقائمة فلاتر جانبية مطوية افتراضياً، وقسم متقدم قابل للطي داخل لوحة المعاينة.
