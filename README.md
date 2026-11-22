@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.0-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.1-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,11 +22,12 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v1.6.0`
+## ✨ أبرز مميزات الإصدار `v1.6.1`
 
+- **🎨 تصميم استوديو فاملي تيم النظيف والعملي (بأسلوب FT Movies و FT Music):**
+  - واجهة `#0B0D13` / `#11141D` هادئة ومرتبة بدون أي شرائط زائدة أو تكدس بالخيارات، مع بطاقات عرضية واسعة (`16:10`)، وشريط علوي موحد، وقائمة فلاتر جانبية مطوية افتراضياً، وقسم متقدم قابل للطي داخل لوحة المعاينة.
 - **🌐 9 محركات بحث وخلفيات عالمية مدمجة (آلاف النتائج العربية والإنجليزية):**
-  - تكامل شامل مع **`Workshop Hub` (2.5M+ خلفية)**، **`Wallhaven API v1` (4K/8K)**، **`Sakuga Live MP4/WebM`**، **`Yande.re 4K/8K`**، **`Konachan 4K`**، **`Safebooru 5M+`**، **`Danbooru 7.5M+`**، **`Wikimedia & NASA 4K Video`**، و**`16 خلفية تفاعلية 60fps`** مع ترجمة تلقائية فورية للبحث العربي!
-  - شريط تصنيفات سريعة مباشر أعلى الشبكة مع زر تطبيق فوري على كل بطاقة ومصغّرات SVG مدمجة للمشاهد التفاعلية 60fps.
+  - تكامل شامل مع **`Workshop Hub` (2.5M+ خلفية)**، **`Wallhaven API v1` (4K/8K)**، **`Sakuga Live MP4/WebM`**، **`Yande.re 4K/8K`**، **`Konachan 4K`**، **`Safebooru 5M+`**، **`Danbooru 7.5M+`**، **`Wikimedia & NASA 4K Video`**، و**`16 خلفية تفاعلية 60fps`** مع اختيار مباشر للمحرك من شريط الأدوات وترجمة تلقائية فورية للبحث العربي!
 - **📦 استيراد تلقائي لمكتبة الورك شوب المثبتة محلياً (`Workshop 431960` + `myprojects`):**
   - فحص واستخراج ذكي لملفات الفيديو `.mp4`/`.webm`، والخلفيات التفاعلية `HTML5`، وصور الـ 4K المضغوطة داخل `.tex` / `scene.pkg` في تبويب **`مثبّت`**.
 - **🎨 واجهة استوديو احترافية ثنائية اللغة (`العربية RTL` + `English LTR`):**
