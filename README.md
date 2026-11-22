@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.6-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.7-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,7 +22,11 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v1.6.6`
+## ✨ أبرز مميزات الإصدار `v1.6.7`
+
+- **🎨 أيقونة درع FT Wallpapers الرسمية لسطح المكتب + فتح مباشر على «مثبّت»:**
+  - توحيد أيقونة درع **FT WALLPAPERS COMMUNITY** الرسمية عالية الدقة (`app.ico` متعددة المقاسات حتى `256×256`) عبر اختصار سطح المكتب وقائمة ابدأ وشريط المهام والمثبت.
+  - يفتح البرنامج الآن مباشرةً على تبويب **«مثبّت» (`installed`)** للوصول الفوري لخلفياتك الجاهزة مع إبقاء تصفح الخلفيات واكتشاف الجديد في التبويبات العليا.
 
 - **🪟 تحريك نافذة احترافي + نافذة تحديث متمركزة في المنتصف (`#update-modal`):**
   - سحب وسناب (Snap) ناعم للنافذة في كل الحالات (عادي ومكبّر) عبر `IsNonClientRegionSupportEnabled` و`HTCAPTION`.
