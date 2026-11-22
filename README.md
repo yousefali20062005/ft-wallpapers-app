@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.8-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.9-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,7 +22,11 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v1.6.8`
+## ✨ أبرز مميزات الإصدار `v1.6.9`
+
+- **⚡ إغلاق فوري بدون تعليق (`✕` -> Tray) + استجابة سريعة جداً للواجهة:**
+  - تبديل الإغلاق لشريط المهام إلى رسالة غير متزامنة وتعليق ذكي لـ `WebView2` (`TrySuspendAsync` / `Resume`) لإخفاء النافذة فوراً بدون تجمّد ("Not Responding") وبدون إعادة بناء بطيء.
+  - توليد مصغّرات ذكية مخزّنة (`360px` JPEG) تلقائياً لخلفيات **«مثبّت»**، وإيقاف `EmptyWorkingSet` الدوري أثناء استخدام الواجهة، وإزالة `backdrop-filter: blur` الثقيل من بطاقات الشبكة، ومنع إعادة رسم البطاقات عند تحريك السلايدرات.
 
 - **↔️ التحكم الحي بموضع الصورة للشاشات العمودية والطولية (`موضع` أفقي وعمودي 0–100 + معاينة `9:16`):**
   - سلايدران مدمجان (**`↔ موضع`** و**`↕ موضع عمودي`**) لتحريك وتأطير أي خلفية أفقية أو فيديو أو GIF على الشاشات العمودية بسلاسة فورية دون تقطيع وبحفظ مستقل لكل شاشة.
