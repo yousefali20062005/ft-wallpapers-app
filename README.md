@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.3-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.4-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,7 +22,10 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v1.6.3`
+## ✨ أبرز مميزات الإصدار `v1.6.4`
+
+- **🚀 نظام التحديث التلقائي الفوري من داخل الاستوديو وسهم شريط المهام (`Auto-Updater`):**
+  - فحص تلقائي لـ GitHub Releases مع إشعار ويندوز من السهم (`^`)، وشريط تحديث واضح داخل الاستوديو، ومؤشر نسبة التحميل (`0% → 100%`)، وتثبيت صامت وإعادة تشغيل تلقائية (`v1.6.4+`).
 
 - **🖥️ تثبيت ذكي فوري لأبعاد الشاشات الطولية والمتعددة أثناء الألعاب (`Progman Drift Guardian`):**
   - مراقبة مستمرة لموضع نافذة `Progman` ومقاسات جميع الشاشات (`SyncAllHostBounds`) ومزامنة متعددة المراحل عند تغيير دقة الشاشة (`OnDisplaySettingsChanged` عند `500ms` و`1400ms` و`2600ms`) لمنع انزلاق الخلفية أو انقسام الشاشة العمودية أثناء تشغيل الألعاب بملء الشاشة (`Fullscreen`).
