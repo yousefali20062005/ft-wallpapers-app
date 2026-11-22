@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.6.9-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v1.7.0-2D7FF9?style=for-the-badge&labelColor=181A1F)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,7 +22,11 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v1.6.9`
+## ✨ أبرز مميزات الإصدار `v1.7.0`
+
+- **🖥️ ثبات تام لخلفيات الشاشات بعد إعادة التشغيل + تشغيل تلقائي مضمون لجميع المستخدمين:**
+  - ربط خلفية وكتم صوت كل شاشة بمعرّف الهاردوير ومنفذ كرت الشاشة الدائم (`HW:DISPLAY#...` عبر `EnumDisplayDevices`) بدلاً من أرقام ويندوز المتغيرة (`DISPLAY1/2/3`)، مع ترتيب حتمي يبدأ بالشاشة الرئيسية وإظهار موديل كل شاشة داخل «اختيار شاشة».
+  - ضمان التشغيل التلقائي مع ويندوز (`--autostart`) لجميع المستخدمين وتنظيف أي تعطيل في `StartupApproved` مع انتظار جاهزية سطح المكتب واستعادة الشاشات التي تتأخر عند الإقلاع.
 
 - **⚡ إغلاق فوري بدون تعليق (`✕` -> Tray) + استجابة سريعة جداً للواجهة:**
   - تبديل الإغلاق لشريط المهام إلى رسالة غير متزامنة وتعليق ذكي لـ `WebView2` (`TrySuspendAsync` / `Resume`) لإخفاء النافذة فوراً بدون تجمّد ("Not Responding") وبدون إعادة بناء بطيء.
