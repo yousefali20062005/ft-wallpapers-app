@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpapers for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpapers%20(Setup%20.exe)-v1.0.0-00E5FF?style=for-the-badge&labelColor=070910)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
+[![Download FT Wallpapers for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpapers%20(Setup%20.exe)-v1.1.0-00E5FF?style=for-the-badge&labelColor=070910)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
