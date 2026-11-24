@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v2.1.1-06B6D4?style=for-the-badge&labelColor=0B0E17)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest/download/FTWallpapers_Setup.exe)
+[![Download FT Wallpaper for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Wallpaper%20(Setup%20.exe)-v2.1.2-06B6D4?style=for-the-badge&labelColor=0B0E17)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest/download/FTWallpapers_Setup.exe)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -22,7 +22,7 @@
 
 <div dir="rtl">
 
-## ✨ أبرز مميزات الإصدار `v2.1.1` — `Studio Ultra`
+## ✨ أبرز مميزات الإصدار `v2.1.2` — `Studio Ultra`
 
 - **🎨 محرك عرض `TrueColor 32-Bit` بألوان أصلية نقية `1:1`:**
   - رندرة كاملة مسرّعة بكرت الشاشة (`GPU Zero-Copy Rasterization` بصيغة `RGBA_8888` — 16.7 مليون لون حقيقي) تقضي نهائياً على أي تقطّع أو تشوه بالتدرجات اللونية.
